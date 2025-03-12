@@ -1,0 +1,9 @@
+{
+    "threads": 400,
+    "webhook": "",
+    "rap_webhook": "",
+    "rare_webhook": "",
+    "proxies": "proxies.txt",
+    "output": "output.txt",
+    "discordid": ""
+}
